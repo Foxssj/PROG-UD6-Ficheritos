@@ -4,7 +4,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class ejercicio1 {
+public class Ejercicio1 {
     public static void main(String[] args) throws IOException {
         Scanner sc = new Scanner(System.in);
         FileWriter fw = new FileWriter("src/com/salesianios/ficheros/ejercicio1.txt");
